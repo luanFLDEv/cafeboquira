@@ -25,14 +25,6 @@ export default function Main() {
 				</p>
 				<div className="flex gap-4">
 					<a
-						href="https://wa.me/557799290546?text=Olá,%20vim%20pelo%20site%20e%20quero%20pedir%20o%20Café%20Boquira"
-						target="_blank"
-						rel="noopener noreferrer"
-						className="bg-[#EDC7A2] text-[#412121] py-3 px-6 rounded hover:bg-[#653614] hover:text-white transition duration-750"
-					>
-						Pedir Agora
-					</a>
-					<a
 						href="#"
 						className="border border-white py-3 px-6 rounded hover:border-[#653614] hover:text-[#653614] transition duration-500"
 					>

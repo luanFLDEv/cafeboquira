@@ -5,7 +5,7 @@ import { MdOutlineTerrain } from 'react-icons/md'
 import { BsStars } from 'react-icons/bs'
 export default function Diferenciais() {
 	return (
-		<section className="py-16 bg-[#f5f5f5]">
+		<section className="py-16 bg-[#f5f5f5] pt-24" id="diferenciais">
 			<div className="container mx-auto px-4">
 				<p className="text-lg text-center text-[#412121] mb-3">
 					POR QUE NOS ECOLHER

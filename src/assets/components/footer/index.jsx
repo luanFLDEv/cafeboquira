@@ -1,6 +1,6 @@
 export default function Footer() {
 	return (
-		<footer className="bg-[#000000] py-4 text-center text-[#EDC7A2]">
+		<footer className="bg-[#000000] py-4  pt-24 text-center text-[#EDC7A2]">
 			<div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
 				<div className="mb-4 md:mb-0">
 					<h2 className="font-[Playfair_Display]">Café Boquira</h2>

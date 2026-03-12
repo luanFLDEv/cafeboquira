@@ -2,7 +2,7 @@ import Logo from '../image/logoescura4.png'
 
 export default function Header() {
 	return (
-		<header className="bg-[#412121] fixed h-20 top-0 w-full z-50">
+		<header className="bg-[#412121] fixed h-20 top-0 w-full z-50" id="inicio">
 			<div className="container mx-auto flex items-center h-full justify-between">
 				<img src={Logo} alt="Logo do Café Boquira" className="h-16 w-auto" />
 
@@ -18,7 +18,7 @@ export default function Header() {
 						</li>
 						<li>
 							<a
-								href="#"
+								href="#sobre"
 								className="text-[#EDC7A2] hover:text-[#653614] transition-colors"
 							>
 								SOBRE
@@ -26,7 +26,7 @@ export default function Header() {
 						</li>
 						<li>
 							<a
-								href="#"
+								href="#catalago"
 								className="text-[#EDC7A2] hover:text-[#653614] transition-colors"
 							>
 								PRODUTOS
@@ -34,7 +34,7 @@ export default function Header() {
 						</li>
 						<li>
 							<a
-								href="#"
+								href="#diferenciais"
 								className="text-[#EDC7A2] hover:text-[#653614] transition-colors"
 							>
 								DIFERENCIAS
@@ -42,7 +42,7 @@ export default function Header() {
 						</li>
 						<li>
 							<a
-								href="#"
+								href="#expreimente"
 								className="text-[#EDC7A2] hover:text-[#653614] transition-colors"
 							>
 								CONTATO

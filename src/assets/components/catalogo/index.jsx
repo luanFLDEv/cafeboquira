@@ -1,7 +1,7 @@
-import CafeBoquira from '../image/cafeBoquira.png'
+import CafeBoquira from '../image/cafeboquira.png'
 export default function Catalogo() {
 	return (
-		<section className="py-16 bg-[#412121]">
+		<section className="py-16 pt-19 bg-[#412121]" id="catalago">
 			<div className="container mx-auto px-4">
 				<p className="text-md text-center font-semibold text-[#8B4513] tracking-wider mb-2">
 					NOSSOS CAFÉS

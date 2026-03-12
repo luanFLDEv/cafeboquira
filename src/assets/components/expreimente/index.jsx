@@ -13,7 +13,7 @@ export default function Experimente() {
 		// Mais do que um café, o Café Boquira representa uma história construída com trabalho, esforço e paixão desde 2001. Cada pacote carrega a essência de uma marca que acredita que um bom café não é apenas uma bebida, mas um momento de prazer, energia e conexão no dia a dia.
 
 		// Café Boquira – Sabor intenso, aroma marcante e uma tradição que começou em 2001.
-		<section className="relative py-32">
+		<section className="relative py-32" id="expreimente">
 			{/* imagem de fundo */}
 			<img
 				src={MulherCafe}
