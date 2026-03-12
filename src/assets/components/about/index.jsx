@@ -1,5 +1,5 @@
 import Xicara from '../image/xicaracafe.png'
-import SenhorCafe from '../image/senhorcomcafe.png'
+import SenhorCafe from '../image/sernhorcafe250.png'
 export default function About() {
 	return (
 		<section className="py-16 bg-[#f5f5f5] pt-24" id="sobre">
