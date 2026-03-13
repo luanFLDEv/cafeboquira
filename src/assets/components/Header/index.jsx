@@ -2,8 +2,8 @@ import Logo from '../image/logoescura4.png'
 
 export default function Header() {
 	return (
-		<header className="bg-[#412121] fixed h-20 top-0 w-full z-50" id="inicio">
-			<div className="container mx-auto flex items-center h-full justify-between">
+		<header className="bg-[#412121] fixed h-20 top-0  w-full z-50 " id="inicio">
+			<div className="container mx-auto flex items-center h-full justify-between ">
 				<img src={Logo} alt="Logo do Café Boquira" className="h-16 w-auto" />
 				<a
 					href="https://wa.me/557799290546?text=Olá,%20quero%20saber%20mais%20sobre%20o%20Café%20Boquira"
@@ -17,8 +17,8 @@ export default function Header() {
 						className="w-8 h-8"
 					/>
 				</a>
-				<nav>
-					<ul className="flex space-x-10">
+				<nav className="md: display-block hidden md:flex">
+					<ul className="flex space-x-10 ">
 						<li>
 							<a
 								href="#"
@@ -65,7 +65,7 @@ export default function Header() {
 					href="https://wa.me/557799290546?text=Olá,%20vim%20pelo%20site%20e%20quero%20pedir%20o%20Café%20Boquira"
 					target="_blank"
 					rel="noopener noreferrer"
-					className="bg-[#EDC7A2] text-[#412121] py-2 px-4 rounded hover:bg-[#653614] transition-colors"
+					className="bg-[#EDC7A2] text-[#412121] py-2 px-4 rounded hover:bg-[#653614] transition-colors hidden md:inline-block"
 				>
 					FALE CONOSCO
 				</a>

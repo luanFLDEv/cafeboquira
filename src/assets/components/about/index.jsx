@@ -3,8 +3,8 @@ import SenhorCafe from '../image/sernhorcafe250.png'
 export default function About() {
 	return (
 		<section className="py-16 bg-[#f5f5f5] pt-24" id="sobre">
-			<div className="flex items-center gap-12 max-w-7xl mx-auto">
-				<img src={Xicara} alt="Xícara de Café Boquira" className="w-200" />
+			<div className="flex items-center gap-12 max-w-7xl mx-auto  flex-col-reverse ">
+				<img src={Xicara} alt="Xícara de Café Boquira" className="w-200  " />
 				<div className="container mx-auto px-4 ">
 					<p className="text-md text-center font-semibold text-[#8B4513] tracking-wider mb-2">
 						NOSSA HISTÓRIA
@@ -28,7 +28,7 @@ export default function About() {
 					</div>
 				</div>
 			</div>
-			<div className="flex items-center gap-12 max-w-7xl mx-auto  mt-16">
+			<div className="flex items-center gap-12 max-w-7xl mx-auto mt-16 flex-col">
 				<div className="container mx-auto px-4">
 					<h2 className="text-3xl font-bold text-center mb-8"></h2>
 					<p className="text-lg text-[#412121] mb-4">

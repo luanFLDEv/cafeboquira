@@ -2,9 +2,9 @@ export default function Footer() {
 	return (
 		<footer className="bg-[#000000] py-4  pt-24 text-center text-[#EDC7A2]">
 			<div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
-				<div className="mb-4 md:mb-0">
+				<div className="mb-4 ">
 					<h2 className="font-[Playfair_Display]">Café Boquira</h2>
-					<p className="text-sm text-gray-400 w-150">
+					<p className="text-sm text-gray-400 max-w-sm md:max-w-lg">
 						Produzindo café de qualidade desde 2001, o Café Boquira é uma marca
 						que representa tradição, sabor intenso e aroma marcante. Com uma
 						história construída com trabalho, esforço e paixão, cada pacote de
