@@ -18,7 +18,7 @@ export default function Footer() {
 					<ul className="list-none mt-2 text-left">
 						<li>Email: Cafeboquira@gmail.com</li>
 						<li>Telefone: (77) 99929-0546</li>
-						<li>Endereço: </li>
+						<li>Endereço:R. João Alves, 50 - Paramirim, </li>
 						<li>Redes Sociais: @cafeboquira</li>
 					</ul>
 				</div>
