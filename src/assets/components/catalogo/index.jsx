@@ -15,7 +15,7 @@ export default function Catalogo() {
 				</p>
 				<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center">
 					{/* CARD PRODUTO */}
-					<div className="bg-white rounded-xl shadow-lg p-6 max-w-sm">
+					<div className="bg-white rounded-xl shadow-lg p-6 max-w-sm hover:shadow-xl transition duration-300">
 						<img
 							src={CafeBoquira}
 							alt="Café Boquira"
@@ -26,9 +26,22 @@ export default function Catalogo() {
 							Café Boquira Tradicional
 						</h3>
 
-						<p className="text-gray-700 mb-4 ">
+						{/* Avaliação */}
+						<div className="flex items-center justify-center gap-2 mb-2">
+							<div className="flex text-yellow-400 text-lg">
+								<span>★</span>
+								<span>★</span>
+								<span>★</span>
+								<span>★</span>
+								<span>★</span>
+							</div>
+							<span className="text-gray-600 text-sm">(127 avaliações)</span>
+						</div>
+
+						<p className="text-gray-700 mb-4 text-center">
 							Café 100% natural com sabor intenso e aroma marcante.
 						</p>
+
 						<a
 							href="https://wa.me/557799290546?text=Olá,%20vim%20pelo%20site%20e%20quero%20pedir%20o%20Café%20Boquira"
 							target="_blank"
