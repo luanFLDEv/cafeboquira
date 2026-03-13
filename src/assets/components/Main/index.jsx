@@ -25,7 +25,7 @@ export default function Main() {
 				</p>
 				<div className="flex gap-4">
 					<a
-						href="#"
+						href="#catalago"
 						className="border border-white py-3 px-6 rounded hover:border-[#653614] hover:text-[#653614] transition duration-500"
 					>
 						Ver Catálogo
