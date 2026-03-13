@@ -16,9 +16,9 @@ export default function Footer() {
 				<div className="mb-4 md:mb-0 font-[Playfair_Display]">
 					Contato:
 					<ul className="list-none mt-2 text-left">
-						<li>Email: contato@cafeboquira.com</li>
-						<li>Telefone: (11) 1234-5678</li>
-						<li>Endereço: endereço ficticio</li>
+						<li>Email: Cafeboquira@gmail.com</li>
+						<li>Telefone: (77) 99929-0546</li>
+						<li>Endereço: </li>
 						<li>Redes Sociais: @cafeboquira</li>
 					</ul>
 				</div>

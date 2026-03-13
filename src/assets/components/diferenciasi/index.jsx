@@ -72,7 +72,7 @@ export default function Diferenciais() {
 						<div className="flex flex-col items-center mb-4">
 							<LuMedal className="text-4xl mb-2 hover:bg-blue-400 group-hover:text-white" />
 							<h3 className="text-xl font-semibold mb-3 group-hover:text-white text-center">
-								Produçãoo cuidadosa
+								Produção cuidadosa
 							</h3>
 							<p className="text-gray-600 group-hover:text-gray-200">
 								Produção cuidadosa que mantém o sabor natural do café,
