@@ -17,7 +17,7 @@ export default function Diferenciais() {
 				<div className="grid grid-cols-1 md:grid-cols-3 gap-8">
 					<div className="group bg-white p-6 rounded-xl  shadow-md transition-all duration-300 hover:-translate-y-2 hover:bg-[#6B3E26]">
 						<div className="flex flex-col items-center mb-4">
-							<GiCoffeeCup className="text-4xl mb-2 hover:bg-red-400 group-hover:text-white " />
+							<GiCoffeeCup className="text-4xl mb-2  group-hover:text-white " />
 							<h3 className="text-xl font-semibold mb-3 group-hover:text-white text-center">
 								Café Artesanal
 							</h3>
@@ -30,7 +30,7 @@ export default function Diferenciais() {
 					</div>
 					<div className="group bg-white p-6 rounded-xl shadow-md transition-all duration-300 hover:-translate-y-2 hover:bg-[#6B3E26]">
 						<div className="flex flex-col items-center mb-4">
-							<GiEcology className="text-4xl mb-2 hover:bg-green-400 group-hover:text-white" />
+							<GiEcology className="text-4xl mb-2  group-hover:text-white" />
 							<h3 className="text-xl font-semibold mb-3 group-hover:text-white text-center">
 								Sustentabilidade
 							</h3>
@@ -44,7 +44,7 @@ export default function Diferenciais() {
 					</div>
 					<div className="group bg-white p-6 rounded-xl shadow-md transition-all duration-300 hover:-translate-y-2 hover:bg-[#6B3E26]">
 						<div className="flex flex-col items-center mb-4">
-							<LuMedal className="text-4xl mb-2 hover:bg-blue-400 group-hover:text-white" />
+							<LuMedal className="text-4xl mb-2  group-hover:text-white" />
 							<h3 className="text-xl font-semibold mb-3 group-hover:text-white text-center">
 								Qualidade Premium
 							</h3>
@@ -57,7 +57,7 @@ export default function Diferenciais() {
 					</div>
 					<div className="group bg-white p-6 rounded-xl shadow-md transition-all duration-300 hover:-translate-y-2 hover:bg-[#6B3E26]">
 						<div className="flex flex-col items-center mb-4">
-							<MdOutlineTerrain className="text-4xl mb-2 hover:bg-green-400 group-hover:text-white" />
+							<MdOutlineTerrain className="text-4xl mb-2 group-hover:text-white" />
 							<h3 className="text-xl font-semibold mb-3 group-hover:text-white text-center">
 								Origem Controlada
 							</h3>
@@ -70,7 +70,7 @@ export default function Diferenciais() {
 					</div>
 					<div className="group bg-white p-6 rounded-xl shadow-md transition-all duration-300 hover:-translate-y-2 hover:bg-[#6B3E26]">
 						<div className="flex flex-col items-center mb-4">
-							<LuMedal className="text-4xl mb-2 hover:bg-blue-400 group-hover:text-white" />
+							<LuMedal className="text-4xl mb-2 group-hover:text-white" />
 							<h3 className="text-xl font-semibold mb-3 group-hover:text-white text-center">
 								Produção cuidadosa
 							</h3>
@@ -82,7 +82,7 @@ export default function Diferenciais() {
 					</div>
 					<div className="group bg-white p-6 rounded-xl shadow-md transition-all duration-300 hover:-translate-y-2 hover:bg-[#6B3E26]">
 						<div className="flex flex-col items-center mb-4">
-							<BsStars className="text-4xl mb-2 hover:bg-yellow-400 group-hover:text-white" />
+							<BsStars className="text-4xl mb-2 group-hover:text-white" />
 							<h3 className="text-xl font-semibold mb-3 group-hover:text-white text-center">
 								Qualidade Premium
 							</h3>
