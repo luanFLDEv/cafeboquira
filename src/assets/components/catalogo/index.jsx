@@ -1,4 +1,4 @@
-import CafeBoquira from '../image/cafeboquira250.png'
+import CafeBoquira from '../image/cafeboquiraserto.png'
 export default function Catalogo() {
 	return (
 		<section className="py-16 pt-19 bg-[#412121]" id="catalago">

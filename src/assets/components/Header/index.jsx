@@ -1,4 +1,4 @@
-import Logo from '../image/logoescura4.png'
+import Logo from '../image/logoescura4c.png'
 
 export default function Header() {
 	return (
@@ -6,7 +6,7 @@ export default function Header() {
 			<div className="container mx-auto flex items-center h-full justify-between ">
 				<img src={Logo} alt="Logo do Café Boquira" className="h-16 w-auto" />
 				<a
-					href="https://wa.me/557799290546?text=Olá,%20quero%20saber%20mais%20sobre%20o%20Café%20Boquira"
+					href="https://wa.me/5577999824025?text=Olá,%20quero%20saber%20mais%20sobre%20o%20Café%20Boquira"
 					target="_blank"
 					rel="noopener noreferrer"
 					className="fixed bottom-6 right-6 bg-green-500 p-4 rounded-full shadow-lg hover:scale-110 transition indes-50"
