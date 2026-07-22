@@ -62,7 +62,7 @@ export default function Header() {
 					</ul>
 				</nav>
 				<a
-					href="https://wa.me/557799290546?text=Olá,%20vim%20pelo%20site%20e%20quero%20pedir%20o%20Café%20Boquira"
+					href="https://wa.me/5577999824025?text=Olá,%20vim%20pelo%20site%20e%20quero%20pedir%20o%20Café%20Boquira"
 					target="_blank"
 					rel="noopener noreferrer"
 					className="bg-[#EDC7A2] text-[#412121] py-2 px-4 rounded hover:bg-[#653614] transition-colors hidden md:inline-block"

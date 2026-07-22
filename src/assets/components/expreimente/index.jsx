@@ -41,7 +41,7 @@ export default function Experimente() {
 
 				<div className="flex gap-4 justify-center">
 					<a
-						href="https://wa.me/557799290546?text=Olá,%20quero%20pedir%20o%20Café%20Boquira"
+						href="https://wa.me/5577999824025?text=Olá,%20quero%20pedir%20o%20Café%20Boquira"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
@@ -50,7 +50,7 @@ export default function Experimente() {
 						</button>
 					</a>
 					<a
-						href="https://wa.me/557799290546?text=Olá,%20quero%20pedir%20o%20Café%20Boquira"
+						href="https://wa.me/5577999824025?text=Olá,%20quero%20pedir%20o%20Café%20Boquira"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
